@@ -32,6 +32,5 @@
   "StemBattleButtons.key1Pressed|block": "KEY1 按下？",
   "StemBattleButtons.key2Pressed|block": "KEY2 按下？",
   "StemBattleButtons.onKey1|block": "當 KEY1 按下時",
-  "StemBattleButtons.onKey2|block": "當 KEY2 按下時",
-  "StemBattlePins|block": "戰鬥盤-腳位"
+  "StemBattleButtons.onKey2|block": "當 KEY2 按下時"
 }
