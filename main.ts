@@ -19,4 +19,13 @@ namespace StemBattle {
         StemBattleMusic.init()
         StemBattleOLED.init()
     }
+
+    /**
+     * 若你見到呢粒積木，代表擴充已成功載入
+     */
+    //% block="戰鬥盤 toolbox 測試（顯示愛心）"
+    //% weight=99
+    export function toolboxSmokeTest(): void {
+        basic.showIcon(IconNames.Heart)
+    }
 }

@@ -1,6 +1,6 @@
 {
     "name": "stem-battle-disc",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "學造 STEM 戰鬥盤 micro:bit 擴充（NeoPixel / WT2003 SD 音樂 / OLED / NFC）· STEM battle-disc adapter v1.0",
     "license": "MIT",
     "dependencies": {

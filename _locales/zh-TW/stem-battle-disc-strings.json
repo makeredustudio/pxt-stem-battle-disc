@@ -32,5 +32,6 @@
   "StemBattleButtons.key1Pressed|block": "KEY1 按下？",
   "StemBattleButtons.key2Pressed|block": "KEY2 按下？",
   "StemBattleButtons.onKey1|block": "當 KEY1 按下時",
-  "StemBattleButtons.onKey2|block": "當 KEY2 按下時"
+  "StemBattleButtons.onKey2|block": "當 KEY2 按下時",
+  "StemBattle.toolboxSmokeTest|block": "戰鬥盤 toolbox 測試（顯示愛心）"
 }
