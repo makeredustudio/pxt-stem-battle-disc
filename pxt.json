@@ -1,31 +1,30 @@
 {
-  "name": "stem-battle-disc",
-  "version": "1.0.0",
-  "description": "學造 STEM 戰鬥盤 micro:bit 擴充（NeoPixel / WT2003 SD 音樂 / OLED / NFC）· STEM battle-disc adapter v1.0",
-  "license": "MIT",
-  "dependencies": {
-    "core": "*",
-    "radio": "*",
-    "microphone": "*",
-    "neopixel": "microsoft/pxt-neopixel"
-  },
-  "files": [
-    "README.md",
-    "PACKAGE.md",
-    "main.ts",
-    "pins.ts",
-    "neopixel_board.ts",
-    "wt2003.ts",
-    "oled.ts",
-    "nfc.ts",
-    "buttons.ts",
-    "_locales/zh-TW/stem-battle-disc-strings.json"
-  ],
-  "testFiles": [
-    "test.ts"
-  ],
-  "supportedTargets": [
-    "microbit"
-  ],
-  "preferredEditor": "tsprj"
+    "name": "stem-battle-disc",
+    "version": "1.0.1",
+    "description": "學造 STEM 戰鬥盤 micro:bit 擴充（NeoPixel / WT2003 SD 音樂 / OLED / NFC）· STEM battle-disc adapter v1.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
+    },
+    "files": [
+        "README.md",
+        "PACKAGE.md",
+        "main.ts",
+        "pins.ts",
+        "neopixel_board.ts",
+        "wt2003.ts",
+        "oled.ts",
+        "nfc.ts",
+        "buttons.ts",
+        "_locales/zh-TW/stem-battle-disc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "public": true
 }
